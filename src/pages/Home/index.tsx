@@ -1,0 +1,14 @@
+// <blockquote className="tiktok-embed" cite="https://www.tiktok.com/@pkv110/video/7275183740756790533" data-video-id="7275183740756790533" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@pkv110" href="https://www.tiktok.com/@pkv110?refer=embed">@pkv110</a> 我姓石<a title="国漫人也有自己的颜值天团" target="_blank" href="https://www.tiktok.com/tag/%E5%9B%BD%E6%BC%AB%E4%BA%BA%E4%B9%9F%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E9%A2%9C%E5%80%BC%E5%A4%A9%E5%9B%A2?refer=embed">#国漫人也有自己的颜值天团</a><a title="来洛阳沉浸式体验少歌江湖" target="_blank" href="https://www.tiktok.com/tag/%E6%9D%A5%E6%B4%9B%E9%98%B3%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E5%B0%91%E6%AD%8C%E6%B1%9F%E6%B9%96?refer=embed">#来洛阳沉浸式体验少歌江湖</a><a title="国风当下的唐宫夜宴" target="_blank" href="https://www.tiktok.com/tag/%E5%9B%BD%E9%A3%8E%E5%BD%93%E4%B8%8B%E7%9A%84%E5%94%90%E5%AE%AB%E5%A4%9C%E5%AE%B4?refer=embed">#国风当下的唐宫夜宴</a> <a title="我姓石" target="_blank" href="https://www.tiktok.com/tag/%E6%88%91%E5%A7%93%E7%9F%B3?refer=embed">#我姓石</a><a title="当古装女神开始跳舞" target="_blank" href="https://www.tiktok.com/tag/%E5%BD%93%E5%8F%A4%E8%A3%85%E5%A5%B3%E7%A5%9E%E5%BC%80%E5%A7%8B%E8%B7%B3%E8%88%9E?refer=embed">#当古装女神开始跳舞</a>@<a title="潘潘kiwi" target="_blank" href="https://www.tiktok.com/tag/%E6%BD%98%E6%BD%98kiwi?refer=embed">#潘潘kiwi</a> <a target="_blank" title="♬ 原聲  - yyt12" href="https://www.tiktok.com/music/原聲-yyt12-7262245954504428294?refer=embed">♬ 原聲  - yyt12</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+{/*<blockquote className="tiktok-embed" cite="https://www.tiktok.com/@hoa_2309/video/7275613211506838785" data-video-id="7275613211506838785" style={{maxWidth: 605,minWidth: 325}} > <section> <a target="_blank" title="@hoa_2309" href="https://www.tiktok.com/@hoa_2309?refer=embed">@hoa_2309</a> 🙏 🐶 🐈 <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a target="_blank" title="♬ nhạc nền  - Ngô Ngọc Hoà🦄" href="https://www.tiktok.com/music/nhạc-nền-Ngô-Ngọc-Hoà🦄-7275613242390104834?refer=embed">♬ nhạc nền  - Ngô Ngọc Hoà🦄</a> </section> </blockquote>*/}
+{/*<blockquote className="tiktok-embed" cite="https://www.tiktok.com/@elina_karimovaa" data-unique-id="elina_karimovaa" data-embed-type="creator" style={{maxWidth: "780px", minWidth: "288px"}} > <section> <a target="_blank" href="https://www.tiktok.com/@elina_karimovaa?refer=creator_embed">@elina_karimovaa</a> </section> </blockquote>*/}
+import useScript from "~/hooks/useScript.ts";
+
+function HomePage() {
+	// useScript("https://www.tiktok.com/embed.js");
+	return (
+		<div className={`home`}>
+
+		</div>
+	)
+}
+export default HomePage;
